@@ -8,7 +8,7 @@
 * E-mail: blackdiablo1991@mail.ru
 * Telegram: @Andrei1991Yarashuk
 * Discord: @Andrei-Yarashuk#8878
-* [https://www.linkedin.com/in/%D0%B0%D0%BD%D0%B4%D1%80%D0%B5%D0%B9-%D1%8F%D1%80%D0%BE%D1%88%D1%83%D0%BA/](LinkedIn) 
+* [LinkedIn](https://www.linkedin.com/in/%D0%B0%D0%BD%D0%B4%D1%80%D0%B5%D0%B9-%D1%8F%D1%80%D0%BE%D1%88%D1%83%D0%BA/)
 
 ## **Brief information about yourself**
 
