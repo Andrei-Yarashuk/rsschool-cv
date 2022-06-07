@@ -26,7 +26,8 @@ I want to retrain and become an experienced Frontend developer.
 
 * **University** Brest State Technical University, Specialty Information Technology Engineer
 * **Courses** 
-+ [https://htmlacademy.ru/](HTML Academy)
++ [HTML Academy](https://htmlacademy.ru/)
++ [Preparing for Google Cloud Certification: Cloud Engineer](https://coursera.org/share/7057d226ec4750ce4cd1a5999c8b8aeb)
 
 
 ## **English**
