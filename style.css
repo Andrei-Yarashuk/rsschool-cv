@@ -1,0 +1,293 @@
+header {
+	display: block;
+}
+
+.container {
+	margin: 0 auto;
+	width: 800px;
+	align-items: center;
+
+}
+
+.header-container {
+	position: relative;
+	width: 110%;
+	display: flex;
+	background-color: gainsboro;
+	align-items: center;
+	height: 300px;
+}
+
+.round {
+	border-radius: 250px;
+	width: 100%;
+	box-shadow: orange 4px 4px 5px;
+}
+
+a {
+	color: rgb(5, 1, 26);
+}
+
+.nav-menu {
+	height: 10%;
+	display: flex;
+	align-items: center;
+	font-size: 20px;
+	border-radius: 15px;
+}
+
+.my-photo {
+	width: 25%;
+	display: flex;
+	padding-left: 25px;
+}
+
+.info {
+	width: 75%;
+	height: 350px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+
+}
+
+.nav-list {
+	width: 100%;
+	display: flex;
+	justify-content: flex-start;
+	background-color: rgb(18, 241, 18);
+	border-radius: 50px;
+}
+
+.nav-item {
+	position: relative;
+	margin-right: 45px;
+	list-style-type: none;
+}
+
+.about-me {
+	height: 60%;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-end;
+	padding-right: 100px;
+}
+
+h1,
+h2 {
+	text-shadow: orange 2px 3px 4px;
+}
+
+h1 {
+	padding-right: 55px;
+}
+
+li {
+	text-shadow: black 0 0 10px;
+}
+
+body {
+	background-color: black;
+}
+
+.main-info-container {
+	display: flex;
+	width: 880px;
+}
+
+.aside {
+	width: 30%;
+	padding: 10px 0 0 20px;
+	background-color: rgb(18, 241, 18);
+	flex-direction: column;
+	display: flex;
+}
+
+.font-bold {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.decoration {
+	text-decoration: underline;
+}
+
+h3 {
+	margin: auto;
+}
+
+.main {
+	width: 100%;
+	height: 600px;
+	background-color: burlywood;
+	display: flex;
+	position: relative;
+	align-items: top;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.main-about-me {
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	background-color: rgb(214, 228, 21);
+	margin-right: 50px;
+	margin-left: 50px;
+	height: 20px;
+	border-radius: 20px;
+}
+
+.div-about-me {
+	padding-top: 30px;
+	text-align: justify;
+	margin: 0 50px 0 50px;
+}
+
+.completed-courses {
+	position: absolute;
+	top: 120px;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	margin-right: 50px;
+	height: 20px;
+	font-weight: bold;
+	background-color: rgb(214, 228, 21);
+}
+
+.div-courses {
+	position: absolute;
+	top: 140px;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	margin-right: 50px;
+	height: 20px;
+	font-weight: bold;
+}
+
+.key-knowledge {
+	position: absolute;
+	top: 270px;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	margin-right: 50px;
+	height: 20px;
+	font-weight: bold;
+}
+
+.div-skills {
+	position: absolute;
+	top: 290px;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	margin-right: 50px;
+	height: 20px;
+	font-weight: bold;
+}
+
+.languages {
+	position: absolute;
+	top: 420px;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	margin-right: 50px;
+	height: 20px;
+	font-weight: bold;
+}
+
+.div-language {
+	position: absolute;
+	top: 440px;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	margin-right: 50px;
+	height: 20px;
+	font-weight: bold;
+}
+
+.code {
+	position: absolute;
+	top: 490px;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	margin-right: 50px;
+	height: 20px;
+	font-weight: bold
+}
+
+.div-code {
+	position: absolute;
+	top: 530px;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	margin-right: 50px;
+	height: 20px;
+}
+
+.nav-link {
+	color: black;
+	text-decoration: none;
+	transition: color 2.0s;
+}
+
+.nav-link:hover {
+	color: #ee850d;
+}
+
+footer {
+	display: block;
+}
+
+
+.footer-container {
+		flex-direction: row;
+	justify-content: center;
+		position: relative;
+	width: 880px;
+	display: flex;
+	background-color: gainsboro;
+	align-items: center;
+	height: 150px;
+	top: 378px;
+	left: 25px;
+		}
+
+.footer-contacts {
+	width: 34%;
+	display: flex;
+	text-align: left;
+	font-size: 15px;
+	border-radius: 15px;
+}
+
+.footer-logo {
+	width: 33%;
+	display: flex;
+	text-align: center;
+}
+
+.footer-course {
+	width: 33%;
+	display: flex;
+	text-align: center;
+}
+
+.year {
+	border-radius: 5px;
+	background-color: rgb(18, 241, 18);
+	position: relative;
+	right: -460px;
+	bottom: -340px;
+	
+}
